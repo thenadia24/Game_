@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60238ed8-d651-44bb-8bed-0a57ef6b9c11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lotr/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lotr/CharacterFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lotr/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lotr/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lotr/GameManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lotr/Hobbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lotr/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lotr/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ElfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HobbitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/KingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/KnightTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="60238ed8-d651-44bb-8bed-0a57ef6b9c11" name="Changes" comment="Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,6 +112,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665649427665</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1665672530306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665672530306</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,5 +132,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
